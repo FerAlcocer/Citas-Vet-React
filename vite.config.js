@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://feralcocer.github.io/Citas-Vet-React",
+  base: "http://feralcocer.github.io/Citas-Vet-React",
 });
